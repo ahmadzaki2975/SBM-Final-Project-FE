@@ -15,7 +15,7 @@ export default function Navbar() {
       <h1 className="text-[#f2f2f2] font-semibold text-[36px] text-center underline underline-4 underline-white">
         Project SBM
       </h1>
-      <ul className="mt-20 w-full relative text-[36px] flex flex-col //gap-[87px] items-center //bg-white fill-transparent">
+      <ul className="mt-10 w-full relative text-[36px] flex flex-col //gap-[87px] items-center //bg-white fill-transparent">
         <div
           className={
             "bg-[#f5f5f5] absolute h-[25%] transition rounded-l-full w-[95%] right-0" +
